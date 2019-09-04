@@ -18,18 +18,18 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
-
+Github is a Git repository where people and companies can collaborate on projects.There are many tool in the Git repository that can be used to help with this collaboration.    
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
 1. The extensive repository.
 2. Used ti help integration even in big companies.
 3. Great place to get your code out to the world for others to see.
 
 ## What is a Pull Request?
-A pull request is telling the current repository owner about a current push you have committed. This is to potentially discuss possible issues in code and also with too many people sub,itting code there could possibly be conflicting code.
+A pull request is telling the current repository owner about a current push you have committed. This is to potentially discuss possible issues in code and also with too many people submitting code there could possibly be conflicting code.
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
-- https://www.youtube.com/watch?v=_OZVJpLHUaI
-- https://git-scm.com/docs/gittutorial
+- [Youtube]https://www.youtube.com/watch?v=_OZVJpLHUaI
+- []https://git-scm.com/docs/gittutorial
 
 
 ### Change this image to be something else with different alt data
